@@ -1,5 +1,5 @@
 # Project1 - RutgersBootCamp - Star Wars Data Analysis
-
+## Robert Kirsten
 Goal: To break down the first 6 movies using Star Wars API data. 
 
 Hypothesis: Can creativity be quantified? Can the size and shapes of characters, places, and things tell us anything about the creative process? 
